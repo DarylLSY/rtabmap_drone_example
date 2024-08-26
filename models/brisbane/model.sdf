@@ -1,0 +1,1930 @@
+<?xml version="1.0"?>
+
+<sdf version="1.6">
+  <model name="object">
+    <static>true</static>
+
+    <link name="testlink">
+      <visual name="BuildingMesh-00000">
+        <pose>15.8 -18.5 -23 0 0 0</pose><geometry>
+          <mesh><scale>15 15 15</scale>
+            <uri>model://brisbane/meshes/model.dae</uri>
+            <submesh>
+              <name>BuildingMesh-00000</name>
+            </submesh>
+          </mesh>
+        </geometry>
+        <material>
+          <diffuse>1.0 1.0 1.0 1.0</diffuse>
+          <specular>0.0 0.0 0.0 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://brisbane/meshes/out-frame14458-00000-texture.png</albedo_map>
+            </metal>
+          </pbr>
+        </material>
+      </visual>
+      <visual name="BuildingMesh-00001">
+        <pose>15.8 -18.5 -23 0 0 0</pose><geometry>
+          <mesh><scale>15 15 15</scale>
+            <uri>model://brisbane/meshes/model.dae</uri>
+            <submesh>
+              <name>BuildingMesh-00001</name>
+            </submesh>
+          </mesh>
+        </geometry>
+        <material>
+          <diffuse>1.0 1.0 1.0 1.0</diffuse>
+          <specular>0.0 0.0 0.0 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://brisbane/meshes/out-frame14458-00001-texture.png</albedo_map>
+            </metal>
+          </pbr>
+        </material>
+      </visual>
+      <visual name="BuildingMesh-00002">
+        <pose>15.8 -18.5 -23 0 0 0</pose><geometry>
+          <mesh><scale>15 15 15</scale>
+            <uri>model://brisbane/meshes/model.dae</uri>
+            <submesh>
+              <name>BuildingMesh-00002</name>
+            </submesh>
+          </mesh>
+        </geometry>
+        <material>
+          <diffuse>1.0 1.0 1.0 1.0</diffuse>
+          <specular>0.0 0.0 0.0 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://brisbane/meshes/out-frame14458-00002-texture.png</albedo_map>
+            </metal>
+          </pbr>
+        </material>
+      </visual>
+      <visual name="BuildingMesh-00003">
+        <pose>15.8 -18.5 -23 0 0 0</pose><geometry>
+          <mesh><scale>15 15 15</scale>
+            <uri>model://brisbane/meshes/model.dae</uri>
+            <submesh>
+              <name>BuildingMesh-00003</name>
+            </submesh>
+          </mesh>
+        </geometry>
+        <material>
+          <diffuse>1.0 1.0 1.0 1.0</diffuse>
+          <specular>0.0 0.0 0.0 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://brisbane/meshes/out-frame14458-00003-texture.png</albedo_map>
+            </metal>
+          </pbr>
+        </material>
+      </visual>
+      <visual name="BuildingMesh-00004">
+        <pose>15.8 -18.5 -23 0 0 0</pose><geometry>
+          <mesh><scale>15 15 15</scale>
+            <uri>model://brisbane/meshes/model.dae</uri>
+            <submesh>
+              <name>BuildingMesh-00004</name>
+            </submesh>
+          </mesh>
+        </geometry>
+        <material>
+          <diffuse>1.0 1.0 1.0 1.0</diffuse>
+          <specular>0.0 0.0 0.0 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://brisbane/meshes/out-frame14458-00004-texture.png</albedo_map>
+            </metal>
+          </pbr>
+        </material>
+      </visual>
+      <visual name="BuildingMesh-00005">
+        <pose>15.8 -18.5 -23 0 0 0</pose><geometry>
+          <mesh><scale>15 15 15</scale>
+            <uri>model://brisbane/meshes/model.dae</uri>
+            <submesh>
+              <name>BuildingMesh-00005</name>
+            </submesh>
+          </mesh>
+        </geometry>
+        <material>
+          <diffuse>1.0 1.0 1.0 1.0</diffuse>
+          <specular>0.0 0.0 0.0 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://brisbane/meshes/out-frame14458-00005-texture.png</albedo_map>
+            </metal>
+          </pbr>
+        </material>
+      </visual>
+      <visual name="BuildingMesh-00006">
+        <pose>15.8 -18.5 -23 0 0 0</pose><geometry>
+          <mesh><scale>15 15 15</scale>
+            <uri>model://brisbane/meshes/model.dae</uri>
+            <submesh>
+              <name>BuildingMesh-00006</name>
+            </submesh>
+          </mesh>
+        </geometry>
+        <material>
+          <diffuse>1.0 1.0 1.0 1.0</diffuse>
+          <specular>0.0 0.0 0.0 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://brisbane/meshes/out-frame14458-00006-texture.png</albedo_map>
+            </metal>
+          </pbr>
+        </material>
+      </visual>
+      <visual name="BuildingMesh-00007">
+        <pose>15.8 -18.5 -23 0 0 0</pose><geometry>
+          <mesh><scale>15 15 15</scale>
+            <uri>model://brisbane/meshes/model.dae</uri>
+            <submesh>
+              <name>BuildingMesh-00007</name>
+            </submesh>
+          </mesh>
+        </geometry>
+        <material>
+          <diffuse>1.0 1.0 1.0 1.0</diffuse>
+          <specular>0.0 0.0 0.0 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://brisbane/meshes/out-frame14458-00007-texture.png</albedo_map>
+            </metal>
+          </pbr>
+        </material>
+      </visual>
+      <visual name="BuildingMesh-00008">
+        <pose>15.8 -18.5 -23 0 0 0</pose><geometry>
+          <mesh><scale>15 15 15</scale>
+            <uri>model://brisbane/meshes/model.dae</uri>
+            <submesh>
+              <name>BuildingMesh-00008</name>
+            </submesh>
+          </mesh>
+        </geometry>
+        <material>
+          <diffuse>1.0 1.0 1.0 1.0</diffuse>
+          <specular>0.0 0.0 0.0 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://brisbane/meshes/out-frame14458-00008-texture.png</albedo_map>
+            </metal>
+          </pbr>
+        </material>
+      </visual>
+      <visual name="BuildingMesh-00009">
+        <pose>15.8 -18.5 -23 0 0 0</pose><geometry>
+          <mesh><scale>15 15 15</scale>
+            <uri>model://brisbane/meshes/model.dae</uri>
+            <submesh>
+              <name>BuildingMesh-00009</name>
+            </submesh>
+          </mesh>
+        </geometry>
+        <material>
+          <diffuse>1.0 1.0 1.0 1.0</diffuse>
+          <specular>0.0 0.0 0.0 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://brisbane/meshes/out-frame14458-00009-texture.png</albedo_map>
+            </metal>
+          </pbr>
+        </material>
+      </visual>
+      <visual name="BuildingMesh-00010">
+        <pose>15.8 -18.5 -23 0 0 0</pose><geometry>
+          <mesh><scale>15 15 15</scale>
+            <uri>model://brisbane/meshes/model.dae</uri>
+            <submesh>
+              <name>BuildingMesh-00010</name>
+            </submesh>
+          </mesh>
+        </geometry>
+        <material>
+          <diffuse>1.0 1.0 1.0 1.0</diffuse>
+          <specular>0.0 0.0 0.0 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://brisbane/meshes/out-frame14458-00010-texture.png</albedo_map>
+            </metal>
+          </pbr>
+        </material>
+      </visual>
+      <visual name="BuildingMesh-00011">
+        <pose>15.8 -18.5 -23 0 0 0</pose><geometry>
+          <mesh><scale>15 15 15</scale>
+            <uri>model://brisbane/meshes/model.dae</uri>
+            <submesh>
+              <name>BuildingMesh-00011</name>
+            </submesh>
+          </mesh>
+        </geometry>
+        <material>
+          <diffuse>1.0 1.0 1.0 1.0</diffuse>
+          <specular>0.0 0.0 0.0 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://brisbane/meshes/out-frame14458-00011-texture.png</albedo_map>
+            </metal>
+          </pbr>
+        </material>
+      </visual>
+      <visual name="BuildingMesh-00012">
+        <pose>15.8 -18.5 -23 0 0 0</pose><geometry>
+          <mesh><scale>15 15 15</scale>
+            <uri>model://brisbane/meshes/model.dae</uri>
+            <submesh>
+              <name>BuildingMesh-00012</name>
+            </submesh>
+          </mesh>
+        </geometry>
+        <material>
+          <diffuse>1.0 1.0 1.0 1.0</diffuse>
+          <specular>0.0 0.0 0.0 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://brisbane/meshes/out-frame14458-00012-texture.png</albedo_map>
+            </metal>
+          </pbr>
+        </material>
+      </visual>
+      <visual name="BuildingMesh-00013">
+        <pose>15.8 -18.5 -23 0 0 0</pose><geometry>
+          <mesh><scale>15 15 15</scale>
+            <uri>model://brisbane/meshes/model.dae</uri>
+            <submesh>
+              <name>BuildingMesh-00013</name>
+            </submesh>
+          </mesh>
+        </geometry>
+        <material>
+          <diffuse>1.0 1.0 1.0 1.0</diffuse>
+          <specular>0.0 0.0 0.0 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://brisbane/meshes/out-frame14458-00013-texture.png</albedo_map>
+            </metal>
+          </pbr>
+        </material>
+      </visual>
+      <visual name="BuildingMesh-00014">
+        <pose>15.8 -18.5 -23 0 0 0</pose><geometry>
+          <mesh><scale>15 15 15</scale>
+            <uri>model://brisbane/meshes/model.dae</uri>
+            <submesh>
+              <name>BuildingMesh-00014</name>
+            </submesh>
+          </mesh>
+        </geometry>
+        <material>
+          <diffuse>1.0 1.0 1.0 1.0</diffuse>
+          <specular>0.0 0.0 0.0 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://brisbane/meshes/out-frame14458-00014-texture.png</albedo_map>
+            </metal>
+          </pbr>
+        </material>
+      </visual>
+      <visual name="BuildingMesh-00015">
+        <pose>15.8 -18.5 -23 0 0 0</pose><geometry>
+          <mesh><scale>15 15 15</scale>
+            <uri>model://brisbane/meshes/model.dae</uri>
+            <submesh>
+              <name>BuildingMesh-00015</name>
+            </submesh>
+          </mesh>
+        </geometry>
+        <material>
+          <diffuse>1.0 1.0 1.0 1.0</diffuse>
+          <specular>0.0 0.0 0.0 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://brisbane/meshes/out-frame14458-00015-texture.png</albedo_map>
+            </metal>
+          </pbr>
+        </material>
+      </visual>
+      <visual name="BuildingMesh-00016">
+        <pose>15.8 -18.5 -23 0 0 0</pose><geometry>
+          <mesh><scale>15 15 15</scale>
+            <uri>model://brisbane/meshes/model.dae</uri>
+            <submesh>
+              <name>BuildingMesh-00016</name>
+            </submesh>
+          </mesh>
+        </geometry>
+        <material>
+          <diffuse>1.0 1.0 1.0 1.0</diffuse>
+          <specular>0.0 0.0 0.0 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://brisbane/meshes/out-frame14458-00016-texture.png</albedo_map>
+            </metal>
+          </pbr>
+        </material>
+      </visual>
+      <visual name="BuildingMesh-00017">
+        <pose>15.8 -18.5 -23 0 0 0</pose><geometry>
+          <mesh><scale>15 15 15</scale>
+            <uri>model://brisbane/meshes/model.dae</uri>
+            <submesh>
+              <name>BuildingMesh-00017</name>
+            </submesh>
+          </mesh>
+        </geometry>
+        <material>
+          <diffuse>1.0 1.0 1.0 1.0</diffuse>
+          <specular>0.0 0.0 0.0 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://brisbane/meshes/out-frame14458-00017-texture.png</albedo_map>
+            </metal>
+          </pbr>
+        </material>
+      </visual>
+      <visual name="BuildingMesh-00018">
+        <pose>15.8 -18.5 -23 0 0 0</pose><geometry>
+          <mesh><scale>15 15 15</scale>
+            <uri>model://brisbane/meshes/model.dae</uri>
+            <submesh>
+              <name>BuildingMesh-00018</name>
+            </submesh>
+          </mesh>
+        </geometry>
+        <material>
+          <diffuse>1.0 1.0 1.0 1.0</diffuse>
+          <specular>0.0 0.0 0.0 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://brisbane/meshes/out-frame14458-00018-texture.png</albedo_map>
+            </metal>
+          </pbr>
+        </material>
+      </visual>
+      <visual name="BuildingMesh-00019">
+        <pose>15.8 -18.5 -23 0 0 0</pose><geometry>
+          <mesh><scale>15 15 15</scale>
+            <uri>model://brisbane/meshes/model.dae</uri>
+            <submesh>
+              <name>BuildingMesh-00019</name>
+            </submesh>
+          </mesh>
+        </geometry>
+        <material>
+          <diffuse>1.0 1.0 1.0 1.0</diffuse>
+          <specular>0.0 0.0 0.0 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://brisbane/meshes/out-frame14458-00019-texture.png</albedo_map>
+            </metal>
+          </pbr>
+        </material>
+      </visual>
+      <visual name="BuildingMesh-00020">
+        <pose>15.8 -18.5 -23 0 0 0</pose><geometry>
+          <mesh><scale>15 15 15</scale>
+            <uri>model://brisbane/meshes/model.dae</uri>
+            <submesh>
+              <name>BuildingMesh-00020</name>
+            </submesh>
+          </mesh>
+        </geometry>
+        <material>
+          <diffuse>1.0 1.0 1.0 1.0</diffuse>
+          <specular>0.0 0.0 0.0 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://brisbane/meshes/out-frame14458-00020-texture.png</albedo_map>
+            </metal>
+          </pbr>
+        </material>
+      </visual>
+      <visual name="BuildingMesh-00021">
+        <pose>15.8 -18.5 -23 0 0 0</pose><geometry>
+          <mesh><scale>15 15 15</scale>
+            <uri>model://brisbane/meshes/model.dae</uri>
+            <submesh>
+              <name>BuildingMesh-00021</name>
+            </submesh>
+          </mesh>
+        </geometry>
+        <material>
+          <diffuse>1.0 1.0 1.0 1.0</diffuse>
+          <specular>0.0 0.0 0.0 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://brisbane/meshes/out-frame14458-00021-texture.png</albedo_map>
+            </metal>
+          </pbr>
+        </material>
+      </visual>
+      <visual name="BuildingMesh-00022">
+        <pose>15.8 -18.5 -23 0 0 0</pose><geometry>
+          <mesh><scale>15 15 15</scale>
+            <uri>model://brisbane/meshes/model.dae</uri>
+            <submesh>
+              <name>BuildingMesh-00022</name>
+            </submesh>
+          </mesh>
+        </geometry>
+        <material>
+          <diffuse>1.0 1.0 1.0 1.0</diffuse>
+          <specular>0.0 0.0 0.0 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://brisbane/meshes/out-frame14458-00022-texture.png</albedo_map>
+            </metal>
+          </pbr>
+        </material>
+      </visual>
+      <visual name="BuildingMesh-00023">
+        <pose>15.8 -18.5 -23 0 0 0</pose><geometry>
+          <mesh><scale>15 15 15</scale>
+            <uri>model://brisbane/meshes/model.dae</uri>
+            <submesh>
+              <name>BuildingMesh-00023</name>
+            </submesh>
+          </mesh>
+        </geometry>
+        <material>
+          <diffuse>1.0 1.0 1.0 1.0</diffuse>
+          <specular>0.0 0.0 0.0 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://brisbane/meshes/out-frame14458-00023-texture.png</albedo_map>
+            </metal>
+          </pbr>
+        </material>
+      </visual>
+      <visual name="BuildingMesh-00024">
+        <pose>15.8 -18.5 -23 0 0 0</pose><geometry>
+          <mesh><scale>15 15 15</scale>
+            <uri>model://brisbane/meshes/model.dae</uri>
+            <submesh>
+              <name>BuildingMesh-00024</name>
+            </submesh>
+          </mesh>
+        </geometry>
+        <material>
+          <diffuse>1.0 1.0 1.0 1.0</diffuse>
+          <specular>0.0 0.0 0.0 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://brisbane/meshes/out-frame14458-00024-texture.png</albedo_map>
+            </metal>
+          </pbr>
+        </material>
+      </visual>
+      <visual name="BuildingMesh-00025">
+        <pose>15.8 -18.5 -23 0 0 0</pose><geometry>
+          <mesh><scale>15 15 15</scale>
+            <uri>model://brisbane/meshes/model.dae</uri>
+            <submesh>
+              <name>BuildingMesh-00025</name>
+            </submesh>
+          </mesh>
+        </geometry>
+        <material>
+          <diffuse>1.0 1.0 1.0 1.0</diffuse>
+          <specular>0.0 0.0 0.0 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://brisbane/meshes/out-frame14458-00025-texture.png</albedo_map>
+            </metal>
+          </pbr>
+        </material>
+      </visual>
+      <visual name="BuildingMesh-00026">
+        <pose>15.8 -18.5 -23 0 0 0</pose><geometry>
+          <mesh><scale>15 15 15</scale>
+            <uri>model://brisbane/meshes/model.dae</uri>
+            <submesh>
+              <name>BuildingMesh-00026</name>
+            </submesh>
+          </mesh>
+        </geometry>
+        <material>
+          <diffuse>1.0 1.0 1.0 1.0</diffuse>
+          <specular>0.0 0.0 0.0 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://brisbane/meshes/out-frame14458-00026-texture.png</albedo_map>
+            </metal>
+          </pbr>
+        </material>
+      </visual>
+      <visual name="BuildingMesh-00027">
+        <pose>15.8 -18.5 -23 0 0 0</pose><geometry>
+          <mesh><scale>15 15 15</scale>
+            <uri>model://brisbane/meshes/model.dae</uri>
+            <submesh>
+              <name>BuildingMesh-00027</name>
+            </submesh>
+          </mesh>
+        </geometry>
+        <material>
+          <diffuse>1.0 1.0 1.0 1.0</diffuse>
+          <specular>0.0 0.0 0.0 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://brisbane/meshes/out-frame14458-00027-texture.png</albedo_map>
+            </metal>
+          </pbr>
+        </material>
+      </visual>
+      <visual name="BuildingMesh-00028">
+        <pose>15.8 -18.5 -23 0 0 0</pose><geometry>
+          <mesh><scale>15 15 15</scale>
+            <uri>model://brisbane/meshes/model.dae</uri>
+            <submesh>
+              <name>BuildingMesh-00028</name>
+            </submesh>
+          </mesh>
+        </geometry>
+        <material>
+          <diffuse>1.0 1.0 1.0 1.0</diffuse>
+          <specular>0.0 0.0 0.0 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://brisbane/meshes/out-frame14458-00028-texture.png</albedo_map>
+            </metal>
+          </pbr>
+        </material>
+      </visual>
+      <visual name="BuildingMesh-00029">
+        <pose>15.8 -18.5 -23 0 0 0</pose><geometry>
+          <mesh><scale>15 15 15</scale>
+            <uri>model://brisbane/meshes/model.dae</uri>
+            <submesh>
+              <name>BuildingMesh-00029</name>
+            </submesh>
+          </mesh>
+        </geometry>
+        <material>
+          <diffuse>1.0 1.0 1.0 1.0</diffuse>
+          <specular>0.0 0.0 0.0 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://brisbane/meshes/out-frame14458-00029-texture.png</albedo_map>
+            </metal>
+          </pbr>
+        </material>
+      </visual>
+      <visual name="BuildingMesh-00030">
+        <pose>15.8 -18.5 -23 0 0 0</pose><geometry>
+          <mesh><scale>15 15 15</scale>
+            <uri>model://brisbane/meshes/model.dae</uri>
+            <submesh>
+              <name>BuildingMesh-00030</name>
+            </submesh>
+          </mesh>
+        </geometry>
+        <material>
+          <diffuse>1.0 1.0 1.0 1.0</diffuse>
+          <specular>0.0 0.0 0.0 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://brisbane/meshes/out-frame14458-00030-texture.png</albedo_map>
+            </metal>
+          </pbr>
+        </material>
+      </visual>
+      <visual name="BuildingMesh-00031">
+        <pose>15.8 -18.5 -23 0 0 0</pose><geometry>
+          <mesh><scale>15 15 15</scale>
+            <uri>model://brisbane/meshes/model.dae</uri>
+            <submesh>
+              <name>BuildingMesh-00031</name>
+            </submesh>
+          </mesh>
+        </geometry>
+        <material>
+          <diffuse>1.0 1.0 1.0 1.0</diffuse>
+          <specular>0.0 0.0 0.0 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://brisbane/meshes/out-frame14458-00031-texture.png</albedo_map>
+            </metal>
+          </pbr>
+        </material>
+      </visual>
+      <visual name="BuildingMesh-00032">
+        <pose>15.8 -18.5 -23 0 0 0</pose><geometry>
+          <mesh><scale>15 15 15</scale>
+            <uri>model://brisbane/meshes/model.dae</uri>
+            <submesh>
+              <name>BuildingMesh-00032</name>
+            </submesh>
+          </mesh>
+        </geometry>
+        <material>
+          <diffuse>1.0 1.0 1.0 1.0</diffuse>
+          <specular>0.0 0.0 0.0 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://brisbane/meshes/out-frame14458-00032-texture.png</albedo_map>
+            </metal>
+          </pbr>
+        </material>
+      </visual>
+      <visual name="BuildingMesh-00033">
+        <pose>15.8 -18.5 -23 0 0 0</pose><geometry>
+          <mesh><scale>15 15 15</scale>
+            <uri>model://brisbane/meshes/model.dae</uri>
+            <submesh>
+              <name>BuildingMesh-00033</name>
+            </submesh>
+          </mesh>
+        </geometry>
+        <material>
+          <diffuse>1.0 1.0 1.0 1.0</diffuse>
+          <specular>0.0 0.0 0.0 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://brisbane/meshes/out-frame14458-00033-texture.png</albedo_map>
+            </metal>
+          </pbr>
+        </material>
+      </visual>
+      <visual name="BuildingMesh-00034">
+        <pose>15.8 -18.5 -23 0 0 0</pose><geometry>
+          <mesh><scale>15 15 15</scale>
+            <uri>model://brisbane/meshes/model.dae</uri>
+            <submesh>
+              <name>BuildingMesh-00034</name>
+            </submesh>
+          </mesh>
+        </geometry>
+        <material>
+          <diffuse>1.0 1.0 1.0 1.0</diffuse>
+          <specular>0.0 0.0 0.0 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://brisbane/meshes/out-frame14458-00034-texture.png</albedo_map>
+            </metal>
+          </pbr>
+        </material>
+      </visual>
+      <visual name="BuildingMesh-00035">
+        <pose>15.8 -18.5 -23 0 0 0</pose><geometry>
+          <mesh><scale>15 15 15</scale>
+            <uri>model://brisbane/meshes/model.dae</uri>
+            <submesh>
+              <name>BuildingMesh-00035</name>
+            </submesh>
+          </mesh>
+        </geometry>
+        <material>
+          <diffuse>1.0 1.0 1.0 1.0</diffuse>
+          <specular>0.0 0.0 0.0 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://brisbane/meshes/out-frame14458-00035-texture.png</albedo_map>
+            </metal>
+          </pbr>
+        </material>
+      </visual>
+      <visual name="BuildingMesh-00036">
+        <pose>15.8 -18.5 -23 0 0 0</pose><geometry>
+          <mesh><scale>15 15 15</scale>
+            <uri>model://brisbane/meshes/model.dae</uri>
+            <submesh>
+              <name>BuildingMesh-00036</name>
+            </submesh>
+          </mesh>
+        </geometry>
+        <material>
+          <diffuse>1.0 1.0 1.0 1.0</diffuse>
+          <specular>0.0 0.0 0.0 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://brisbane/meshes/out-frame14458-00036-texture.png</albedo_map>
+            </metal>
+          </pbr>
+        </material>
+      </visual>
+      <visual name="BuildingMesh-00037">
+        <pose>15.8 -18.5 -23 0 0 0</pose><geometry>
+          <mesh><scale>15 15 15</scale>
+            <uri>model://brisbane/meshes/model.dae</uri>
+            <submesh>
+              <name>BuildingMesh-00037</name>
+            </submesh>
+          </mesh>
+        </geometry>
+        <material>
+          <diffuse>1.0 1.0 1.0 1.0</diffuse>
+          <specular>0.0 0.0 0.0 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://brisbane/meshes/out-frame14458-00037-texture.png</albedo_map>
+            </metal>
+          </pbr>
+        </material>
+      </visual>
+      <visual name="BuildingMesh-00038">
+        <pose>15.8 -18.5 -23 0 0 0</pose><geometry>
+          <mesh><scale>15 15 15</scale>
+            <uri>model://brisbane/meshes/model.dae</uri>
+            <submesh>
+              <name>BuildingMesh-00038</name>
+            </submesh>
+          </mesh>
+        </geometry>
+        <material>
+          <diffuse>1.0 1.0 1.0 1.0</diffuse>
+          <specular>0.0 0.0 0.0 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://brisbane/meshes/out-frame14458-00038-texture.png</albedo_map>
+            </metal>
+          </pbr>
+        </material>
+      </visual>
+      <visual name="BuildingMesh-00039">
+        <pose>15.8 -18.5 -23 0 0 0</pose><geometry>
+          <mesh><scale>15 15 15</scale>
+            <uri>model://brisbane/meshes/model.dae</uri>
+            <submesh>
+              <name>BuildingMesh-00039</name>
+            </submesh>
+          </mesh>
+        </geometry>
+        <material>
+          <diffuse>1.0 1.0 1.0 1.0</diffuse>
+          <specular>0.0 0.0 0.0 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://brisbane/meshes/out-frame14458-00039-texture.png</albedo_map>
+            </metal>
+          </pbr>
+        </material>
+      </visual>
+      <visual name="BuildingMesh-00040">
+        <pose>15.8 -18.5 -23 0 0 0</pose><geometry>
+          <mesh><scale>15 15 15</scale>
+            <uri>model://brisbane/meshes/model.dae</uri>
+            <submesh>
+              <name>BuildingMesh-00040</name>
+            </submesh>
+          </mesh>
+        </geometry>
+        <material>
+          <diffuse>1.0 1.0 1.0 1.0</diffuse>
+          <specular>0.0 0.0 0.0 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://brisbane/meshes/out-frame14458-00040-texture.png</albedo_map>
+            </metal>
+          </pbr>
+        </material>
+      </visual>
+      <visual name="BuildingMesh-00041">
+        <pose>15.8 -18.5 -23 0 0 0</pose><geometry>
+          <mesh><scale>15 15 15</scale>
+            <uri>model://brisbane/meshes/model.dae</uri>
+            <submesh>
+              <name>BuildingMesh-00041</name>
+            </submesh>
+          </mesh>
+        </geometry>
+        <material>
+          <diffuse>1.0 1.0 1.0 1.0</diffuse>
+          <specular>0.0 0.0 0.0 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://brisbane/meshes/out-frame14458-00041-texture.png</albedo_map>
+            </metal>
+          </pbr>
+        </material>
+      </visual>
+      <visual name="BuildingMesh-00042">
+        <pose>15.8 -18.5 -23 0 0 0</pose><geometry>
+          <mesh><scale>15 15 15</scale>
+            <uri>model://brisbane/meshes/model.dae</uri>
+            <submesh>
+              <name>BuildingMesh-00042</name>
+            </submesh>
+          </mesh>
+        </geometry>
+        <material>
+          <diffuse>1.0 1.0 1.0 1.0</diffuse>
+          <specular>0.0 0.0 0.0 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://brisbane/meshes/out-frame14458-00042-texture.png</albedo_map>
+            </metal>
+          </pbr>
+        </material>
+      </visual>
+      <visual name="BuildingMesh-00043">
+        <pose>15.8 -18.5 -23 0 0 0</pose><geometry>
+          <mesh><scale>15 15 15</scale>
+            <uri>model://brisbane/meshes/model.dae</uri>
+            <submesh>
+              <name>BuildingMesh-00043</name>
+            </submesh>
+          </mesh>
+        </geometry>
+        <material>
+          <diffuse>1.0 1.0 1.0 1.0</diffuse>
+          <specular>0.0 0.0 0.0 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://brisbane/meshes/out-frame14458-00043-texture.png</albedo_map>
+            </metal>
+          </pbr>
+        </material>
+      </visual>
+      <visual name="BuildingMesh-00044">
+        <pose>15.8 -18.5 -23 0 0 0</pose><geometry>
+          <mesh><scale>15 15 15</scale>
+            <uri>model://brisbane/meshes/model.dae</uri>
+            <submesh>
+              <name>BuildingMesh-00044</name>
+            </submesh>
+          </mesh>
+        </geometry>
+        <material>
+          <diffuse>1.0 1.0 1.0 1.0</diffuse>
+          <specular>0.0 0.0 0.0 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://brisbane/meshes/out-frame14458-00044-texture.png</albedo_map>
+            </metal>
+          </pbr>
+        </material>
+      </visual>
+      <visual name="BuildingMesh-00045">
+        <pose>15.8 -18.5 -23 0 0 0</pose><geometry>
+          <mesh><scale>15 15 15</scale>
+            <uri>model://brisbane/meshes/model.dae</uri>
+            <submesh>
+              <name>BuildingMesh-00045</name>
+            </submesh>
+          </mesh>
+        </geometry>
+        <material>
+          <diffuse>1.0 1.0 1.0 1.0</diffuse>
+          <specular>0.0 0.0 0.0 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://brisbane/meshes/out-frame14458-00045-texture.png</albedo_map>
+            </metal>
+          </pbr>
+        </material>
+      </visual>
+      <visual name="BuildingMesh-00046">
+        <pose>15.8 -18.5 -23 0 0 0</pose><geometry>
+          <mesh><scale>15 15 15</scale>
+            <uri>model://brisbane/meshes/model.dae</uri>
+            <submesh>
+              <name>BuildingMesh-00046</name>
+            </submesh>
+          </mesh>
+        </geometry>
+        <material>
+          <diffuse>1.0 1.0 1.0 1.0</diffuse>
+          <specular>0.0 0.0 0.0 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://brisbane/meshes/out-frame14458-00046-texture.png</albedo_map>
+            </metal>
+          </pbr>
+        </material>
+      </visual>
+      <visual name="BuildingMesh-00047">
+        <pose>15.8 -18.5 -23 0 0 0</pose><geometry>
+          <mesh><scale>15 15 15</scale>
+            <uri>model://brisbane/meshes/model.dae</uri>
+            <submesh>
+              <name>BuildingMesh-00047</name>
+            </submesh>
+          </mesh>
+        </geometry>
+        <material>
+          <diffuse>1.0 1.0 1.0 1.0</diffuse>
+          <specular>0.0 0.0 0.0 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://brisbane/meshes/out-frame14458-00047-texture.png</albedo_map>
+            </metal>
+          </pbr>
+        </material>
+      </visual>
+      <visual name="BuildingMesh-00048">
+        <pose>15.8 -18.5 -23 0 0 0</pose><geometry>
+          <mesh><scale>15 15 15</scale>
+            <uri>model://brisbane/meshes/model.dae</uri>
+            <submesh>
+              <name>BuildingMesh-00048</name>
+            </submesh>
+          </mesh>
+        </geometry>
+        <material>
+          <diffuse>1.0 1.0 1.0 1.0</diffuse>
+          <specular>0.0 0.0 0.0 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://brisbane/meshes/out-frame14458-00048-texture.png</albedo_map>
+            </metal>
+          </pbr>
+        </material>
+      </visual>
+      <visual name="BuildingMesh-00049">
+        <pose>15.8 -18.5 -23 0 0 0</pose><geometry>
+          <mesh><scale>15 15 15</scale>
+            <uri>model://brisbane/meshes/model.dae</uri>
+            <submesh>
+              <name>BuildingMesh-00049</name>
+            </submesh>
+          </mesh>
+        </geometry>
+        <material>
+          <diffuse>1.0 1.0 1.0 1.0</diffuse>
+          <specular>0.0 0.0 0.0 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://brisbane/meshes/out-frame14458-00049-texture.png</albedo_map>
+            </metal>
+          </pbr>
+        </material>
+      </visual>
+      <visual name="BuildingMesh-00050">
+        <pose>15.8 -18.5 -23 0 0 0</pose><geometry>
+          <mesh><scale>15 15 15</scale>
+            <uri>model://brisbane/meshes/model.dae</uri>
+            <submesh>
+              <name>BuildingMesh-00050</name>
+            </submesh>
+          </mesh>
+        </geometry>
+        <material>
+          <diffuse>1.0 1.0 1.0 1.0</diffuse>
+          <specular>0.0 0.0 0.0 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://brisbane/meshes/out-frame14458-00050-texture.png</albedo_map>
+            </metal>
+          </pbr>
+        </material>
+      </visual>
+      <visual name="BuildingMesh-00051">
+        <pose>15.8 -18.5 -23 0 0 0</pose><geometry>
+          <mesh><scale>15 15 15</scale>
+            <uri>model://brisbane/meshes/model.dae</uri>
+            <submesh>
+              <name>BuildingMesh-00051</name>
+            </submesh>
+          </mesh>
+        </geometry>
+        <material>
+          <diffuse>1.0 1.0 1.0 1.0</diffuse>
+          <specular>0.0 0.0 0.0 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://brisbane/meshes/out-frame14458-00051-texture.png</albedo_map>
+            </metal>
+          </pbr>
+        </material>
+      </visual>
+      <visual name="BuildingMesh-00052">
+        <pose>15.8 -18.5 -23 0 0 0</pose><geometry>
+          <mesh><scale>15 15 15</scale>
+            <uri>model://brisbane/meshes/model.dae</uri>
+            <submesh>
+              <name>BuildingMesh-00052</name>
+            </submesh>
+          </mesh>
+        </geometry>
+        <material>
+          <diffuse>1.0 1.0 1.0 1.0</diffuse>
+          <specular>0.0 0.0 0.0 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://brisbane/meshes/out-frame14458-00052-texture.png</albedo_map>
+            </metal>
+          </pbr>
+        </material>
+      </visual>
+      <visual name="BuildingMesh-00053">
+        <pose>15.8 -18.5 -23 0 0 0</pose><geometry>
+          <mesh><scale>15 15 15</scale>
+            <uri>model://brisbane/meshes/model.dae</uri>
+            <submesh>
+              <name>BuildingMesh-00053</name>
+            </submesh>
+          </mesh>
+        </geometry>
+        <material>
+          <diffuse>1.0 1.0 1.0 1.0</diffuse>
+          <specular>0.0 0.0 0.0 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://brisbane/meshes/out-frame14458-00053-texture.png</albedo_map>
+            </metal>
+          </pbr>
+        </material>
+      </visual>
+      <visual name="BuildingMesh-00054">
+        <pose>15.8 -18.5 -23 0 0 0</pose><geometry>
+          <mesh><scale>15 15 15</scale>
+            <uri>model://brisbane/meshes/model.dae</uri>
+            <submesh>
+              <name>BuildingMesh-00054</name>
+            </submesh>
+          </mesh>
+        </geometry>
+        <material>
+          <diffuse>1.0 1.0 1.0 1.0</diffuse>
+          <specular>0.0 0.0 0.0 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://brisbane/meshes/out-frame14458-00054-texture.png</albedo_map>
+            </metal>
+          </pbr>
+        </material>
+      </visual>
+      <visual name="BuildingMesh-00055">
+        <pose>15.8 -18.5 -23 0 0 0</pose><geometry>
+          <mesh><scale>15 15 15</scale>
+            <uri>model://brisbane/meshes/model.dae</uri>
+            <submesh>
+              <name>BuildingMesh-00055</name>
+            </submesh>
+          </mesh>
+        </geometry>
+        <material>
+          <diffuse>1.0 1.0 1.0 1.0</diffuse>
+          <specular>0.0 0.0 0.0 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://brisbane/meshes/out-frame14458-00055-texture.png</albedo_map>
+            </metal>
+          </pbr>
+        </material>
+      </visual>
+      <visual name="BuildingMesh-00056">
+        <pose>15.8 -18.5 -23 0 0 0</pose><geometry>
+          <mesh><scale>15 15 15</scale>
+            <uri>model://brisbane/meshes/model.dae</uri>
+            <submesh>
+              <name>BuildingMesh-00056</name>
+            </submesh>
+          </mesh>
+        </geometry>
+        <material>
+          <diffuse>1.0 1.0 1.0 1.0</diffuse>
+          <specular>0.0 0.0 0.0 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://brisbane/meshes/out-frame14458-00056-texture.png</albedo_map>
+            </metal>
+          </pbr>
+        </material>
+      </visual>
+      <visual name="BuildingMesh-00057">
+        <pose>15.8 -18.5 -23 0 0 0</pose><geometry>
+          <mesh><scale>15 15 15</scale>
+            <uri>model://brisbane/meshes/model.dae</uri>
+            <submesh>
+              <name>BuildingMesh-00057</name>
+            </submesh>
+          </mesh>
+        </geometry>
+        <material>
+          <diffuse>1.0 1.0 1.0 1.0</diffuse>
+          <specular>0.0 0.0 0.0 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://brisbane/meshes/out-frame14458-00057-texture.png</albedo_map>
+            </metal>
+          </pbr>
+        </material>
+      </visual>
+      <visual name="BuildingMesh-00058">
+        <pose>15.8 -18.5 -23 0 0 0</pose><geometry>
+          <mesh><scale>15 15 15</scale>
+            <uri>model://brisbane/meshes/model.dae</uri>
+            <submesh>
+              <name>BuildingMesh-00058</name>
+            </submesh>
+          </mesh>
+        </geometry>
+        <material>
+          <diffuse>1.0 1.0 1.0 1.0</diffuse>
+          <specular>0.0 0.0 0.0 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://brisbane/meshes/out-frame14458-00058-texture.png</albedo_map>
+            </metal>
+          </pbr>
+        </material>
+      </visual>
+      <visual name="BuildingMesh-00059">
+        <pose>15.8 -18.5 -23 0 0 0</pose><geometry>
+          <mesh><scale>15 15 15</scale>
+            <uri>model://brisbane/meshes/model.dae</uri>
+            <submesh>
+              <name>BuildingMesh-00059</name>
+            </submesh>
+          </mesh>
+        </geometry>
+        <material>
+          <diffuse>1.0 1.0 1.0 1.0</diffuse>
+          <specular>0.0 0.0 0.0 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://brisbane/meshes/out-frame14458-00059-texture.png</albedo_map>
+            </metal>
+          </pbr>
+        </material>
+      </visual>
+      <visual name="BuildingMesh-00060">
+        <pose>15.8 -18.5 -23 0 0 0</pose><geometry>
+          <mesh><scale>15 15 15</scale>
+            <uri>model://brisbane/meshes/model.dae</uri>
+            <submesh>
+              <name>BuildingMesh-00060</name>
+            </submesh>
+          </mesh>
+        </geometry>
+        <material>
+          <diffuse>1.0 1.0 1.0 1.0</diffuse>
+          <specular>0.0 0.0 0.0 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://brisbane/meshes/out-frame14458-00060-texture.png</albedo_map>
+            </metal>
+          </pbr>
+        </material>
+      </visual>
+      <visual name="BuildingMesh-00061">
+        <pose>15.8 -18.5 -23 0 0 0</pose><geometry>
+          <mesh><scale>15 15 15</scale>
+            <uri>model://brisbane/meshes/model.dae</uri>
+            <submesh>
+              <name>BuildingMesh-00061</name>
+            </submesh>
+          </mesh>
+        </geometry>
+        <material>
+          <diffuse>1.0 1.0 1.0 1.0</diffuse>
+          <specular>0.0 0.0 0.0 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://brisbane/meshes/out-frame14458-00061-texture.png</albedo_map>
+            </metal>
+          </pbr>
+        </material>
+      </visual>
+      <visual name="BuildingMesh-00062">
+        <pose>15.8 -18.5 -23 0 0 0</pose><geometry>
+          <mesh><scale>15 15 15</scale>
+            <uri>model://brisbane/meshes/model.dae</uri>
+            <submesh>
+              <name>BuildingMesh-00062</name>
+            </submesh>
+          </mesh>
+        </geometry>
+        <material>
+          <diffuse>1.0 1.0 1.0 1.0</diffuse>
+          <specular>0.0 0.0 0.0 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://brisbane/meshes/out-frame14458-00062-texture.png</albedo_map>
+            </metal>
+          </pbr>
+        </material>
+      </visual>
+      <visual name="BuildingMesh-00063">
+        <pose>15.8 -18.5 -23 0 0 0</pose><geometry>
+          <mesh><scale>15 15 15</scale>
+            <uri>model://brisbane/meshes/model.dae</uri>
+            <submesh>
+              <name>BuildingMesh-00063</name>
+            </submesh>
+          </mesh>
+        </geometry>
+        <material>
+          <diffuse>1.0 1.0 1.0 1.0</diffuse>
+          <specular>0.0 0.0 0.0 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://brisbane/meshes/out-frame14458-00063-texture.png</albedo_map>
+            </metal>
+          </pbr>
+        </material>
+      </visual>
+      <visual name="BuildingMesh-00064">
+        <pose>15.8 -18.5 -23 0 0 0</pose><geometry>
+          <mesh><scale>15 15 15</scale>
+            <uri>model://brisbane/meshes/model.dae</uri>
+            <submesh>
+              <name>BuildingMesh-00064</name>
+            </submesh>
+          </mesh>
+        </geometry>
+        <material>
+          <diffuse>1.0 1.0 1.0 1.0</diffuse>
+          <specular>0.0 0.0 0.0 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://brisbane/meshes/out-frame14458-00064-texture.png</albedo_map>
+            </metal>
+          </pbr>
+        </material>
+      </visual>
+      <visual name="BuildingMesh-00065">
+        <pose>15.8 -18.5 -23 0 0 0</pose><geometry>
+          <mesh><scale>15 15 15</scale>
+            <uri>model://brisbane/meshes/model.dae</uri>
+            <submesh>
+              <name>BuildingMesh-00065</name>
+            </submesh>
+          </mesh>
+        </geometry>
+        <material>
+          <diffuse>1.0 1.0 1.0 1.0</diffuse>
+          <specular>0.0 0.0 0.0 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://brisbane/meshes/out-frame14458-00065-texture.png</albedo_map>
+            </metal>
+          </pbr>
+        </material>
+      </visual>
+      <visual name="BuildingMesh-00066">
+        <pose>15.8 -18.5 -23 0 0 0</pose><geometry>
+          <mesh><scale>15 15 15</scale>
+            <uri>model://brisbane/meshes/model.dae</uri>
+            <submesh>
+              <name>BuildingMesh-00066</name>
+            </submesh>
+          </mesh>
+        </geometry>
+        <material>
+          <diffuse>1.0 1.0 1.0 1.0</diffuse>
+          <specular>0.0 0.0 0.0 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://brisbane/meshes/out-frame14458-00066-texture.png</albedo_map>
+            </metal>
+          </pbr>
+        </material>
+      </visual>
+      <visual name="BuildingMesh-00067">
+        <pose>15.8 -18.5 -23 0 0 0</pose><geometry>
+          <mesh><scale>15 15 15</scale>
+            <uri>model://brisbane/meshes/model.dae</uri>
+            <submesh>
+              <name>BuildingMesh-00067</name>
+            </submesh>
+          </mesh>
+        </geometry>
+        <material>
+          <diffuse>1.0 1.0 1.0 1.0</diffuse>
+          <specular>0.0 0.0 0.0 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://brisbane/meshes/out-frame14458-00067-texture.png</albedo_map>
+            </metal>
+          </pbr>
+        </material>
+      </visual>
+      <visual name="BuildingMesh-00068">
+        <pose>15.8 -18.5 -23 0 0 0</pose><geometry>
+          <mesh><scale>15 15 15</scale>
+            <uri>model://brisbane/meshes/model.dae</uri>
+            <submesh>
+              <name>BuildingMesh-00068</name>
+            </submesh>
+          </mesh>
+        </geometry>
+        <material>
+          <diffuse>1.0 1.0 1.0 1.0</diffuse>
+          <specular>0.0 0.0 0.0 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://brisbane/meshes/out-frame14458-00068-texture.png</albedo_map>
+            </metal>
+          </pbr>
+        </material>
+      </visual>
+      <visual name="BuildingMesh-00069">
+        <pose>15.8 -18.5 -23 0 0 0</pose><geometry>
+          <mesh><scale>15 15 15</scale>
+            <uri>model://brisbane/meshes/model.dae</uri>
+            <submesh>
+              <name>BuildingMesh-00069</name>
+            </submesh>
+          </mesh>
+        </geometry>
+        <material>
+          <diffuse>1.0 1.0 1.0 1.0</diffuse>
+          <specular>0.0 0.0 0.0 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://brisbane/meshes/out-frame14458-00069-texture.png</albedo_map>
+            </metal>
+          </pbr>
+        </material>
+      </visual>
+      <visual name="BuildingMesh-00070">
+        <pose>15.8 -18.5 -23 0 0 0</pose><geometry>
+          <mesh><scale>15 15 15</scale>
+            <uri>model://brisbane/meshes/model.dae</uri>
+            <submesh>
+              <name>BuildingMesh-00070</name>
+            </submesh>
+          </mesh>
+        </geometry>
+        <material>
+          <diffuse>1.0 1.0 1.0 1.0</diffuse>
+          <specular>0.0 0.0 0.0 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://brisbane/meshes/out-frame14458-00070-texture.png</albedo_map>
+            </metal>
+          </pbr>
+        </material>
+      </visual>
+      <visual name="BuildingMesh-00071">
+        <pose>15.8 -18.5 -23 0 0 0</pose><geometry>
+          <mesh><scale>15 15 15</scale>
+            <uri>model://brisbane/meshes/model.dae</uri>
+            <submesh>
+              <name>BuildingMesh-00071</name>
+            </submesh>
+          </mesh>
+        </geometry>
+        <material>
+          <diffuse>1.0 1.0 1.0 1.0</diffuse>
+          <specular>0.0 0.0 0.0 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://brisbane/meshes/out-frame14458-00071-texture.png</albedo_map>
+            </metal>
+          </pbr>
+        </material>
+      </visual>
+      <visual name="BuildingMesh-00072">
+        <pose>15.8 -18.5 -23 0 0 0</pose><geometry>
+          <mesh><scale>15 15 15</scale>
+            <uri>model://brisbane/meshes/model.dae</uri>
+            <submesh>
+              <name>BuildingMesh-00072</name>
+            </submesh>
+          </mesh>
+        </geometry>
+        <material>
+          <diffuse>1.0 1.0 1.0 1.0</diffuse>
+          <specular>0.0 0.0 0.0 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://brisbane/meshes/out-frame14458-00072-texture.png</albedo_map>
+            </metal>
+          </pbr>
+        </material>
+      </visual>
+      <visual name="BuildingMesh-00073">
+        <pose>15.8 -18.5 -23 0 0 0</pose><geometry>
+          <mesh><scale>15 15 15</scale>
+            <uri>model://brisbane/meshes/model.dae</uri>
+            <submesh>
+              <name>BuildingMesh-00073</name>
+            </submesh>
+          </mesh>
+        </geometry>
+        <material>
+          <diffuse>1.0 1.0 1.0 1.0</diffuse>
+          <specular>0.0 0.0 0.0 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://brisbane/meshes/out-frame14458-00073-texture.png</albedo_map>
+            </metal>
+          </pbr>
+        </material>
+      </visual>
+      <visual name="BuildingMesh-00074">
+        <pose>15.8 -18.5 -23 0 0 0</pose><geometry>
+          <mesh><scale>15 15 15</scale>
+            <uri>model://brisbane/meshes/model.dae</uri>
+            <submesh>
+              <name>BuildingMesh-00074</name>
+            </submesh>
+          </mesh>
+        </geometry>
+        <material>
+          <diffuse>1.0 1.0 1.0 1.0</diffuse>
+          <specular>0.0 0.0 0.0 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://brisbane/meshes/out-frame14458-00074-texture.png</albedo_map>
+            </metal>
+          </pbr>
+        </material>
+      </visual>
+      <visual name="BuildingMesh-00075">
+        <pose>15.8 -18.5 -23 0 0 0</pose><geometry>
+          <mesh><scale>15 15 15</scale>
+            <uri>model://brisbane/meshes/model.dae</uri>
+            <submesh>
+              <name>BuildingMesh-00075</name>
+            </submesh>
+          </mesh>
+        </geometry>
+        <material>
+          <diffuse>1.0 1.0 1.0 1.0</diffuse>
+          <specular>0.0 0.0 0.0 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://brisbane/meshes/out-frame14458-00075-texture.png</albedo_map>
+            </metal>
+          </pbr>
+        </material>
+      </visual>
+      <visual name="BuildingMesh-00076">
+        <pose>15.8 -18.5 -23 0 0 0</pose><geometry>
+          <mesh><scale>15 15 15</scale>
+            <uri>model://brisbane/meshes/model.dae</uri>
+            <submesh>
+              <name>BuildingMesh-00076</name>
+            </submesh>
+          </mesh>
+        </geometry>
+        <material>
+          <diffuse>1.0 1.0 1.0 1.0</diffuse>
+          <specular>0.0 0.0 0.0 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://brisbane/meshes/out-frame14458-00076-texture.png</albedo_map>
+            </metal>
+          </pbr>
+        </material>
+      </visual>
+      <visual name="BuildingMesh-00077">
+        <pose>15.8 -18.5 -23 0 0 0</pose><geometry>
+          <mesh><scale>15 15 15</scale>
+            <uri>model://brisbane/meshes/model.dae</uri>
+            <submesh>
+              <name>BuildingMesh-00077</name>
+            </submesh>
+          </mesh>
+        </geometry>
+        <material>
+          <diffuse>1.0 1.0 1.0 1.0</diffuse>
+          <specular>0.0 0.0 0.0 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://brisbane/meshes/out-frame14458-00077-texture.png</albedo_map>
+            </metal>
+          </pbr>
+        </material>
+      </visual>
+      <visual name="BuildingMesh-00078">
+        <pose>15.8 -18.5 -23 0 0 0</pose><geometry>
+          <mesh><scale>15 15 15</scale>
+            <uri>model://brisbane/meshes/model.dae</uri>
+            <submesh>
+              <name>BuildingMesh-00078</name>
+            </submesh>
+          </mesh>
+        </geometry>
+        <material>
+          <diffuse>1.0 1.0 1.0 1.0</diffuse>
+          <specular>0.0 0.0 0.0 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://brisbane/meshes/out-frame14458-00078-texture.png</albedo_map>
+            </metal>
+          </pbr>
+        </material>
+      </visual>
+      <visual name="BuildingMesh-00079">
+        <pose>15.8 -18.5 -23 0 0 0</pose><geometry>
+          <mesh><scale>15 15 15</scale>
+            <uri>model://brisbane/meshes/model.dae</uri>
+            <submesh>
+              <name>BuildingMesh-00079</name>
+            </submesh>
+          </mesh>
+        </geometry>
+        <material>
+          <diffuse>1.0 1.0 1.0 1.0</diffuse>
+          <specular>0.0 0.0 0.0 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://brisbane/meshes/out-frame14458-00079-texture.png</albedo_map>
+            </metal>
+          </pbr>
+        </material>
+      </visual>
+      <visual name="BuildingMesh-00080">
+        <pose>15.8 -18.5 -23 0 0 0</pose><geometry>
+          <mesh><scale>15 15 15</scale>
+            <uri>model://brisbane/meshes/model.dae</uri>
+            <submesh>
+              <name>BuildingMesh-00080</name>
+            </submesh>
+          </mesh>
+        </geometry>
+        <material>
+          <diffuse>1.0 1.0 1.0 1.0</diffuse>
+          <specular>0.0 0.0 0.0 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://brisbane/meshes/out-frame14458-00080-texture.png</albedo_map>
+            </metal>
+          </pbr>
+        </material>
+      </visual>
+      <visual name="BuildingMesh-00081">
+        <pose>15.8 -18.5 -23 0 0 0</pose><geometry>
+          <mesh><scale>15 15 15</scale>
+            <uri>model://brisbane/meshes/model.dae</uri>
+            <submesh>
+              <name>BuildingMesh-00081</name>
+            </submesh>
+          </mesh>
+        </geometry>
+        <material>
+          <diffuse>1.0 1.0 1.0 1.0</diffuse>
+          <specular>0.0 0.0 0.0 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://brisbane/meshes/out-frame14458-00081-texture.png</albedo_map>
+            </metal>
+          </pbr>
+        </material>
+      </visual>
+      <visual name="BuildingMesh-00082">
+        <pose>15.8 -18.5 -23 0 0 0</pose><geometry>
+          <mesh><scale>15 15 15</scale>
+            <uri>model://brisbane/meshes/model.dae</uri>
+            <submesh>
+              <name>BuildingMesh-00082</name>
+            </submesh>
+          </mesh>
+        </geometry>
+        <material>
+          <diffuse>1.0 1.0 1.0 1.0</diffuse>
+          <specular>0.0 0.0 0.0 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://brisbane/meshes/out-frame14458-00082-texture.png</albedo_map>
+            </metal>
+          </pbr>
+        </material>
+      </visual>
+      <visual name="BuildingMesh-00083">
+        <pose>15.8 -18.5 -23 0 0 0</pose><geometry>
+          <mesh><scale>15 15 15</scale>
+            <uri>model://brisbane/meshes/model.dae</uri>
+            <submesh>
+              <name>BuildingMesh-00083</name>
+            </submesh>
+          </mesh>
+        </geometry>
+        <material>
+          <diffuse>1.0 1.0 1.0 1.0</diffuse>
+          <specular>0.0 0.0 0.0 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://brisbane/meshes/out-frame14458-00083-texture.png</albedo_map>
+            </metal>
+          </pbr>
+        </material>
+      </visual>
+      <visual name="BuildingMesh-00084">
+        <pose>15.8 -18.5 -23 0 0 0</pose><geometry>
+          <mesh><scale>15 15 15</scale>
+            <uri>model://brisbane/meshes/model.dae</uri>
+            <submesh>
+              <name>BuildingMesh-00084</name>
+            </submesh>
+          </mesh>
+        </geometry>
+        <material>
+          <diffuse>1.0 1.0 1.0 1.0</diffuse>
+          <specular>0.0 0.0 0.0 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://brisbane/meshes/out-frame14458-00084-texture.png</albedo_map>
+            </metal>
+          </pbr>
+        </material>
+      </visual>
+      <visual name="BuildingMesh-00085">
+        <pose>15.8 -18.5 -23 0 0 0</pose><geometry>
+          <mesh><scale>15 15 15</scale>
+            <uri>model://brisbane/meshes/model.dae</uri>
+            <submesh>
+              <name>BuildingMesh-00085</name>
+            </submesh>
+          </mesh>
+        </geometry>
+        <material>
+          <diffuse>1.0 1.0 1.0 1.0</diffuse>
+          <specular>0.0 0.0 0.0 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://brisbane/meshes/out-frame14458-00085-texture.png</albedo_map>
+            </metal>
+          </pbr>
+        </material>
+      </visual>
+      <visual name="BuildingMesh-00086">
+        <pose>15.8 -18.5 -23 0 0 0</pose><geometry>
+          <mesh><scale>15 15 15</scale>
+            <uri>model://brisbane/meshes/model.dae</uri>
+            <submesh>
+              <name>BuildingMesh-00086</name>
+            </submesh>
+          </mesh>
+        </geometry>
+        <material>
+          <diffuse>1.0 1.0 1.0 1.0</diffuse>
+          <specular>0.0 0.0 0.0 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://brisbane/meshes/out-frame14458-00086-texture.png</albedo_map>
+            </metal>
+          </pbr>
+        </material>
+      </visual>
+      <visual name="BuildingMesh-00087">
+        <pose>15.8 -18.5 -23 0 0 0</pose><geometry>
+          <mesh><scale>15 15 15</scale>
+            <uri>model://brisbane/meshes/model.dae</uri>
+            <submesh>
+              <name>BuildingMesh-00087</name>
+            </submesh>
+          </mesh>
+        </geometry>
+        <material>
+          <diffuse>1.0 1.0 1.0 1.0</diffuse>
+          <specular>0.0 0.0 0.0 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://brisbane/meshes/out-frame14458-00087-texture.png</albedo_map>
+            </metal>
+          </pbr>
+        </material>
+      </visual>
+      <visual name="BuildingMesh-00088">
+        <pose>15.8 -18.5 -23 0 0 0</pose><geometry>
+          <mesh><scale>15 15 15</scale>
+            <uri>model://brisbane/meshes/model.dae</uri>
+            <submesh>
+              <name>BuildingMesh-00088</name>
+            </submesh>
+          </mesh>
+        </geometry>
+        <material>
+          <diffuse>1.0 1.0 1.0 1.0</diffuse>
+          <specular>0.0 0.0 0.0 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://brisbane/meshes/out-frame14458-00088-texture.png</albedo_map>
+            </metal>
+          </pbr>
+        </material>
+      </visual>
+      <visual name="BuildingMesh-00089">
+        <pose>15.8 -18.5 -23 0 0 0</pose><geometry>
+          <mesh><scale>15 15 15</scale>
+            <uri>model://brisbane/meshes/model.dae</uri>
+            <submesh>
+              <name>BuildingMesh-00089</name>
+            </submesh>
+          </mesh>
+        </geometry>
+        <material>
+          <diffuse>1.0 1.0 1.0 1.0</diffuse>
+          <specular>0.0 0.0 0.0 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://brisbane/meshes/out-frame14458-00089-texture.png</albedo_map>
+            </metal>
+          </pbr>
+        </material>
+      </visual>
+      <visual name="BuildingMesh-00090">
+        <pose>15.8 -18.5 -23 0 0 0</pose><geometry>
+          <mesh><scale>15 15 15</scale>
+            <uri>model://brisbane/meshes/model.dae</uri>
+            <submesh>
+              <name>BuildingMesh-00090</name>
+            </submesh>
+          </mesh>
+        </geometry>
+        <material>
+          <diffuse>1.0 1.0 1.0 1.0</diffuse>
+          <specular>0.0 0.0 0.0 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://brisbane/meshes/out-frame14458-00090-texture.png</albedo_map>
+            </metal>
+          </pbr>
+        </material>
+      </visual>
+      <visual name="BuildingMesh-00091">
+        <pose>15.8 -18.5 -23 0 0 0</pose><geometry>
+          <mesh><scale>15 15 15</scale>
+            <uri>model://brisbane/meshes/model.dae</uri>
+            <submesh>
+              <name>BuildingMesh-00091</name>
+            </submesh>
+          </mesh>
+        </geometry>
+        <material>
+          <diffuse>1.0 1.0 1.0 1.0</diffuse>
+          <specular>0.0 0.0 0.0 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://brisbane/meshes/out-frame14458-00091-texture.png</albedo_map>
+            </metal>
+          </pbr>
+        </material>
+      </visual>
+      <visual name="BuildingMesh-00092">
+        <pose>15.8 -18.5 -23 0 0 0</pose><geometry>
+          <mesh><scale>15 15 15</scale>
+            <uri>model://brisbane/meshes/model.dae</uri>
+            <submesh>
+              <name>BuildingMesh-00092</name>
+            </submesh>
+          </mesh>
+        </geometry>
+        <material>
+          <diffuse>1.0 1.0 1.0 1.0</diffuse>
+          <specular>0.0 0.0 0.0 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://brisbane/meshes/out-frame14458-00092-texture.png</albedo_map>
+            </metal>
+          </pbr>
+        </material>
+      </visual>
+      <visual name="BuildingMesh-00093">
+        <pose>15.8 -18.5 -23 0 0 0</pose><geometry>
+          <mesh><scale>15 15 15</scale>
+            <uri>model://brisbane/meshes/model.dae</uri>
+            <submesh>
+              <name>BuildingMesh-00093</name>
+            </submesh>
+          </mesh>
+        </geometry>
+        <material>
+          <diffuse>1.0 1.0 1.0 1.0</diffuse>
+          <specular>0.0 0.0 0.0 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://brisbane/meshes/out-frame14458-00093-texture.png</albedo_map>
+            </metal>
+          </pbr>
+        </material>
+      </visual>
+      <visual name="BuildingMesh-00094">
+        <pose>15.8 -18.5 -23 0 0 0</pose><geometry>
+          <mesh><scale>15 15 15</scale>
+            <uri>model://brisbane/meshes/model.dae</uri>
+            <submesh>
+              <name>BuildingMesh-00094</name>
+            </submesh>
+          </mesh>
+        </geometry>
+        <material>
+          <diffuse>1.0 1.0 1.0 1.0</diffuse>
+          <specular>0.0 0.0 0.0 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://brisbane/meshes/out-frame14458-00094-texture.png</albedo_map>
+            </metal>
+          </pbr>
+        </material>
+      </visual>
+      <visual name="BuildingMesh-00095">
+        <pose>15.8 -18.5 -23 0 0 0</pose><geometry>
+          <mesh><scale>15 15 15</scale>
+            <uri>model://brisbane/meshes/model.dae</uri>
+            <submesh>
+              <name>BuildingMesh-00095</name>
+            </submesh>
+          </mesh>
+        </geometry>
+        <material>
+          <diffuse>1.0 1.0 1.0 1.0</diffuse>
+          <specular>0.0 0.0 0.0 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://brisbane/meshes/out-frame14458-00095-texture.png</albedo_map>
+            </metal>
+          </pbr>
+        </material>
+      </visual>
+      <visual name="BuildingMesh-00096">
+        <pose>15.8 -18.5 -23 0 0 0</pose><geometry>
+          <mesh><scale>15 15 15</scale>
+            <uri>model://brisbane/meshes/model.dae</uri>
+            <submesh>
+              <name>BuildingMesh-00096</name>
+            </submesh>
+          </mesh>
+        </geometry>
+        <material>
+          <diffuse>1.0 1.0 1.0 1.0</diffuse>
+          <specular>0.0 0.0 0.0 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://brisbane/meshes/out-frame14458-00096-texture.png</albedo_map>
+            </metal>
+          </pbr>
+        </material>
+      </visual>
+      <visual name="BuildingMesh-00097">
+        <pose>15.8 -18.5 -23 0 0 0</pose><geometry>
+          <mesh><scale>15 15 15</scale>
+            <uri>model://brisbane/meshes/model.dae</uri>
+            <submesh>
+              <name>BuildingMesh-00097</name>
+            </submesh>
+          </mesh>
+        </geometry>
+        <material>
+          <diffuse>1.0 1.0 1.0 1.0</diffuse>
+          <specular>0.0 0.0 0.0 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://brisbane/meshes/out-frame14458-00097-texture.png</albedo_map>
+            </metal>
+          </pbr>
+        </material>
+      </visual>
+      <visual name="BuildingMesh-00098">
+        <pose>15.8 -18.5 -23 0 0 0</pose><geometry>
+          <mesh><scale>15 15 15</scale>
+            <uri>model://brisbane/meshes/model.dae</uri>
+            <submesh>
+              <name>BuildingMesh-00098</name>
+            </submesh>
+          </mesh>
+        </geometry>
+        <material>
+          <diffuse>1.0 1.0 1.0 1.0</diffuse>
+          <specular>0.0 0.0 0.0 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://brisbane/meshes/out-frame14458-00098-texture.png</albedo_map>
+            </metal>
+          </pbr>
+        </material>
+      </visual>
+      <visual name="BuildingMesh-00099">
+        <pose>15.8 -18.5 -23 0 0 0</pose><geometry>
+          <mesh><scale>15 15 15</scale>
+            <uri>model://brisbane/meshes/model.dae</uri>
+            <submesh>
+              <name>BuildingMesh-00099</name>
+            </submesh>
+          </mesh>
+        </geometry>
+        <material>
+          <diffuse>1.0 1.0 1.0 1.0</diffuse>
+          <specular>0.0 0.0 0.0 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://brisbane/meshes/out-frame14458-00099-texture.png</albedo_map>
+            </metal>
+          </pbr>
+        </material>
+      </visual>
+      <light name="Light" type="point">
+        <diffuse>1.0 1.0 1.0 1.0</diffuse>
+        <attenuation>
+          <range>40.0</range>
+          <linear/>
+        </attenuation>
+        <cast_shadows>true</cast_shadows>
+        <intensity>1.0</intensity>
+      </light>
+      <collision name="collision">
+        <pose>15.8 -18.5 -23 0 0 0</pose><geometry>
+          <mesh><scale>15 15 15</scale>
+            <uri>model://brisbane/meshes/model.dae</uri>
+          </mesh>
+        </geometry>
+        <surface/>
+        <contact/>
+        <collide_bitmask>0x01</collide_bitmask>
+      </collision>
+
+    </link>
+  </model>
+</sdf>
